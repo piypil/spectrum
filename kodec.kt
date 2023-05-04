@@ -1,5 +1,7 @@
 import kotlin.math.pow
 
+// Hamming-code Sanechek
+
 val CHECK_BITS : Array<Int> = arrayOf(1,2,4,8)
 val error_level_from_0_to_10 : Int = 10
 
